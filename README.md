@@ -1,0 +1,1 @@
+# trimend-method
